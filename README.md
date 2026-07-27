@@ -42,4 +42,4 @@ WebPython/
 
 ## Licencia
 
-Puedes añadir una licencia MIT si quieres permitir que otros reutilicen el código con atribución.
+©  2026 María Camila
