@@ -4,7 +4,7 @@ Portfolio personal desarrollado con **Python** y **Reflex**. Presenta perfil pro
 
 ## Vista previa
 
-`assets/preview.png`
+![Captura de pantalla del Portfolio](assets/preview.png)
 
 ## Tecnologías
 
