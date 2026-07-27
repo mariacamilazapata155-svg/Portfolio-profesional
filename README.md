@@ -4,7 +4,7 @@ Portfolio personal desarrollado con **Python** y **Reflex**. Presenta perfil pro
 
 ## Vista previa
 
-Antes de publicar, añade aquí una captura del sitio (`assets/preview.png`) para que el repositorio sea fácil de evaluar desde GitHub.
+`assets/preview.png`
 
 ## Tecnologías
 
